@@ -32,7 +32,7 @@
   "devDependencies": {
     "@commitlint/cli": "^9.1.1",
     "@commitlint/config-conventional": "^9.1.1",
-    "husky": "^4.2.5",
+    "husky": "^7.0.1",
     "standard-version": "^8.0.2"
   },
   "scripts": {
